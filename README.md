@@ -32,8 +32,9 @@
 <img align="center" src='https://user-images.githubusercontent.com/101955307/208489430-d459e672-0d51-4a08-9306-d51c4f240a02.svg' title="Node.js" alt="Node.js" height="30"/>
 </p>
 
+<!--
 [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephanieguzm&show_icons=true&theme=tokyonight)](https://github.com/stephanieguzm/github-readme-stats)
-
+-->
 
 <!--
 **stephanieguzm/stephanieguzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
