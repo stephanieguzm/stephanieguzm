@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3 align='center'>Hey everyone, I'm Stephanie! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+
+<p align='center'>
+A front-end software developer building clean, responsive, and accessible applications that positively impact the ways in which people create, learn, and connect with each other.
+</p>
+
+<h4 align='center'>
+💻 software engineering student <a href='https://turing.edu'>@Turing School of Software & Design</a> | 🌱 building <a href='https://github.com/The-Readers-Collective/bookmarked-ui'>Bookmarked</a> | 💬 connect <a href='https://linkedin.com/in/stephanie-guzman-sdsw'>@stephanie-guzman-sdsw</a>
+</h4>
 
 <!--
 **stephanieguzm/stephanieguzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
