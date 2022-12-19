@@ -11,8 +11,8 @@
 🌻 connect with me <a href='https://linkedin.com/in/stephanie-guzman-sdsw'>@linkedIn</a>
 </h4>
 
-<h3 align="left">Languages, Frameworks, & Tools:</h3>
-<p align='left'>
+<h3 align="center">Languages, Frameworks, & Tools:</h3>
+<p align='center'>
 <img align="center" src='https://user-images.githubusercontent.com/101955307/208487493-2737a953-d3ca-4000-aff9-853326203aa5.svg' title="React" alt="React" height="30"/>
 <img align="center" src='https://user-images.githubusercontent.com/101955307/208488620-af8312f1-fd12-4e35-a88c-1c733153eab5.svg' title="JavaScript" alt="JavaScript" height="30"/>
 <img align="center" src='https://user-images.githubusercontent.com/101955307/208489203-854d1708-0e5d-43e2-b818-61c31d435732.svg' title="HTML" alt="HTML" height="30"/>
