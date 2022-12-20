@@ -1,17 +1,17 @@
 <h3 align='center'>Hey everyone, I'm Stephanie! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 
 <p align='center'>
-✨ A front-end software developer building clean, responsive, and accessible applications that positively impact the ways in which people create, learn, and connect with each other. ✨<br>💖💜💙
+✨ I'm a front-end software developer building clean, responsive, and accessible applications that positively impact the ways in which people create, learn, and connect with each other. ✨<br>💖💜💙
 </p>
 
 <h4 align='center'>
 💻 software engineering student <a href='https://turing.edu'>@Turing School of Software & Design</a><br>
-🌱 building <a href='https://github.com/The-Readers-Collective/bookmarked-ui'>Bookmarked</a><br> 
+🌱 building <a href='https://github.com/The-Readers-Collective/bookmarked-ui'>Bookmarked</a> + <a href='https://github.com/stephanieguzm/seekr-ui'>Seekr</a><br> 
 💬 email me <a href='sguzman247@gmail.com'>@sguzman247@gmail.com</a><br>
 🌻 connect with me <a href='https://linkedin.com/in/stephanie-guzman-sdsw'>@linkedIn</a>
 </h4>
 
-<h3 align="center">Languages, Frameworks, & Tools:</h3>
+<h3 align="center">Technology Stack</h3>
 <p align='center'>
 <img align="center" src='https://user-images.githubusercontent.com/101955307/208487493-2737a953-d3ca-4000-aff9-853326203aa5.svg' title="React" alt="React" height="30"/>
 <img align="center" src='https://user-images.githubusercontent.com/101955307/208488620-af8312f1-fd12-4e35-a88c-1c733153eab5.svg' title="JavaScript" alt="JavaScript" height="30"/>
@@ -30,12 +30,23 @@
 <img align="center" src='https://user-images.githubusercontent.com/101955307/208492476-b49a10bb-2d23-48ce-8849-1928b9e3a1fb.svg' title="Webpack" alt="Webpack" height="30"/>
 <img align="center" src='https://user-images.githubusercontent.com/101955307/208492752-4ccd10ee-0a00-4b79-8576-b06a3c078697.svg' title="CircleCI" alt="CircleCI" height="30"/>  
 <img align="center" src='https://user-images.githubusercontent.com/101955307/208489430-d459e672-0d51-4a08-9306-d51c4f240a02.svg' title="Node.js" alt="Node.js" height="30"/>
-</p>
+</p><br>
 
-<!--
+<div align='center'>
+<img src='https://github-readme-stats.vercel.app/api?username=stephanieguzm&show_icons=true&theme=tokyonight' alt="Stephanie's GitHub Stats">
+<img src='https://github-readme-streak-stats.herokuapp.com?user=stephanieguzm&theme=tokyonight&date_format=j%20M%5B%20Y%5D' alt="Stephanie's GitHub Streak">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieguzm&layout=compact&theme=tokyonight' alt="Stephanie's Top Languages" height='200'>
+</div>
+
+
+<!--  
 [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephanieguzm&show_icons=true&theme=tokyonight)](https://github.com/stephanieguzm/github-readme-stats)
--->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stephanieguzm&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieguzm&layout=compact&theme=tokyonight)](https://github.com/stephanieguzm/github-readme-stats)
+
+  
 <!--
 **stephanieguzm/stephanieguzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
