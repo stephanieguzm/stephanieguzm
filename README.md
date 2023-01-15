@@ -1,4 +1,4 @@
-<h3 align='center'>Hey everyone, I'm Stephanie! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+<h3 align='center'>Hi, I'm Stephanie! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 
 <p align='center'>
 ✨ I'm a front-end software developer building clean, responsive, and accessible applications that positively impact the ways in which people create, learn, and connect with each other. ✨<br>💖💜💙
