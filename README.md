@@ -5,7 +5,7 @@
 </p>
 
 <h4 align='center'>
-💻 software engineering student <a href='https://turing.edu'>@Turing School of Software & Design</a><br>
+💻 software engineering graduate <a href='https://turing.edu'>@Turing School of Software & Design</a><br>
 🌱 building <a href='https://github.com/The-Readers-Collective/bookmarked-ui'>Bookmarked</a> + <a href='https://github.com/stephanieguzm/seekr-ui'>Seekr</a><br> 
 💬 email me <a href='sguzman247@gmail.com'>@sguzman247@gmail.com</a><br>
 🌻 connect with me <a href='https://linkedin.com/in/stephanie-guzman-sdsw'>@linkedIn</a>
